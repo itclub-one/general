@@ -1,7 +1,6 @@
 ! Title: Lab PPL
 ! Source: https://raw.githubusercontent.com/itclub-one/general/AHG-Blokir.txt
 ! Home: https://github.com/general/AHG-Blokir.txt
-
 192.168.0.1 internal
 192.168.0.1 1.server.internal
 
@@ -9,4 +8,6 @@
 ||pointblank.id^
 ||ome.tv^
 ||riotcdn.net^
+||.ometv.tv^
 /ometv/
+/dns/
