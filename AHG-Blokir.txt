@@ -5,8 +5,8 @@
 192.168.0.1 internal
 192.168.0.1 1.server.internal
 
-! E
+!
 ||pointblank.id^
 ||ome.tv^
 ||riotcdn.net^
-||.ometv.tv^
+/ometv/
