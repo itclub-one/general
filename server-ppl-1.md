@@ -1,9 +1,8 @@
 # iptables-persistent 
-to restore iptable after restart, the content of the iptable is basically NAT F>
+to restore iptable after restart, the content of the iptable is basically NAT 
 
 # netplans
-The WAN interface is DHCPv4 while LAN interface is set manually and override th>
-doesn't become default route
+The WAN interface is DHCPv4 while LAN interface is set manually and override the route so it doesn't become default route
 
 # iptables
 Controlling LAN network
