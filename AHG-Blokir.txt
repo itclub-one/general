@@ -2,13 +2,12 @@
 ! Source: https://raw.githubusercontent.com/itclub-one/general/AHG-Blokir.txt
 ! Home: https://github.com/general/AHG-Blokir.txt
 # DNS Blocklist: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-
 192.168.0.1 internal
 192.168.0.1 1.server.internal
 #Me When
 ||pointblank.id^
 ||ome.tv^
 ||riotcdn.net^
-||riotgames.com^
+||playvalorant.com^
 ||.ometv.tv^
 /ometv/
