@@ -9,5 +9,7 @@
 ||ome.tv^
 ||riotcdn.net^
 ||playvalorant.com^
-||.ometv.tv^
+||ometv.tv^
+||zepetto.com^
+||zepetto.id^
 /ometv/
